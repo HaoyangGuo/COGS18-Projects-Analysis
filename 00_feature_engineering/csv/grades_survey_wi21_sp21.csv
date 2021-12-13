@@ -1,0 +1,143 @@
+anonymized,total_points,programming_background,pre_skills,Concept (Total),File Structure (Total),Project Description (Total),Approach (Total),Code (Total),Style (Total),Documentation (Total),Tests (Total),Fudge Points,Extra Credit,Total Score,instructor,quarter
+WI21_B00_001,98.5,I've never programmed before!,None of these,5,4.5,10,20,28,10,9,8,,,95,Ellis,WI21
+WI21_B00_002,99.53,I've never programmed before!,None of these,5,4.5,10,20,27,10,8,10,,,94.5,Ellis,WI21
+WI21_B00_003,92.97,I've never programmed before!,None of these,5,4.5,10,20,30,10,10,7.5,,,100,Ellis,WI21
+WI21_B00_004,94.69,Matlab,"Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions, Execute Python programs on your local computer, using notebooks and the command line",5,5,0,18,30,10,10,10,,,88.5,Ellis,WI21
+WI21_B00_005,98.72,I've never programmed before!,None of these,5,4.5,10,20,27,10,8,10,,,98.5,Ellis,WI21
+WI21_B00_006,89.47,I've never programmed before!,None of these,5,4.5,10,17,30,9,9,10,,,95.5,Ellis,WI21
+WI21_B00_007,95.71,I've never programmed before!,None of these,5,4.5,10,15,30,9,9,10,,,93,Ellis,WI21
+WI21_B00_008,85.09,I've never programmed before!,None of these,5,4.5,10,16,22,9,8,8,,,83,Ellis,WI21
+WI21_B00_009,99.39,I've never programmed before!,None of these,5,5,10,20,30,9,10,10,,,102,Ellis,WI21
+WI21_B00_010,91.83,Javascript,None of these,NA,NA,NA,NA,NA,NA,NA,NA,,,NA,Ellis,WI21
+WI21_B00_011,100.77,I've never programmed before!,None of these,5,5,10,20,30,10,10,10,,,101,Ellis,WI21
+WI21_B00_012,90.51,C/C++,Solve basic problems using programmatic solutions,5,5,10,20,30,8,8,1,,,87,Ellis,WI21
+WI21_B00_013,94.75,I've never programmed before!,None of these,5,5,10,19,30,10,10,9,,,98,Ellis,WI21
+WI21_B00_014,70.52,I've never programmed before!,None of these,5,2,0,15,30,7,0,0,,,61,Ellis,WI21
+WI21_B00_015,99.7,I've never programmed before!,None of these,5,5,10,20,30,10,10,10,,,100,Ellis,WI21
+WI21_B00_016,78.93,C/C++,"Solve basic problems using programmatic solutions, Execute Python programs on your local computer, using notebooks and the command line",5,3,3,20,24,5,3,0,,,67,Ellis,WI21
+WI21_B00_017,99.71,I've never programmed before!,None of these,5,5,10,20,30,10,10,10,,,101,Ellis,WI21
+WI21_B00_018,98.95,I've never programmed before!,None of these,5,5,10,18,30,10,10,7.5,,,96.5,Ellis,WI21
+WI21_B00_019,86.4,I've never programmed before!,"Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions, Execute Python programs on your local computer, using notebooks and the command line",NA,5,10,19,25,8,2,5,,,74,Ellis,WI21
+WI21_B00_020,100.39,NA,NA,5,5,10,20,30,10,10,10,,,101,Ellis,WI21
+WI21_B00_021,96.83,I've never programmed before!,None of these,5,4.5,10,15,22,10,10,6.4,,,82.9,Ellis,WI21
+WI21_B00_022,73.37,I've never programmed before!,None of these,5,5,10,18,26,10,10,8,,,92,Ellis,WI21
+SP21_B00_001,100.99,I've never programmed before!,None of these,5,5,10,20,30,10,10,7.5,,,97.5,Ellis,SP21
+SP21_B00_002,101.23,I've never programmed before!,None of these,5,3.5,10,20,30,10,10,10,,,98.5,Ellis,SP21
+SP21_B00_003,92.3,I've never programmed before!,None of these,5,5,10,15,27,9,10,9,,,90,Ellis,SP21
+SP21_B00_004,97.69,"Python, Java","Program at an introductory level in the Python programming language, Write and debug small Python programs",5,4,10,20,28,10,6,10,,,93,Ellis,SP21
+SP21_B00_005,51.72,"Java, Javascript","Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions",5,4,10,17,28,4,0,2.5,,,0,Ellis,SP21
+SP21_B00_006,99.17,I've never programmed before!,None of these,5,5,9,20,30,8.5,9,6,,,95.5,Ellis,SP21
+SP21_B00_007,100.46,"Java, C/C++","Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions",5,5,10,20,30,10,10,10,,,100,Ellis,SP21
+SP21_B00_008,102.52,I've never programmed before!,None of these,5,4.5,10,20,30,10,10,10,,,103.5,Ellis,SP21
+SP21_B00_008,102.52,I've never programmed before!,None of these,5,4.5,10,20,30,10,10,10,,,103.5,Ellis,SP21
+SP21_B00_009,97.69,NA,NA,5,5,10,15,28,10,10,9,,,92.5,Ellis,SP21
+SP21_B00_010,100.79,I've never programmed before!,None of these,5,3,10,20,30,8.5,9.5,10,,,96,Ellis,SP21
+SP21_B00_011,89.65,I've never programmed before!,None of these,5,4.5,9,10,19,8,8,8,,,71.5,Ellis,SP21
+SP21_B00_012,100.02,Java,Solve basic problems using programmatic solutions,5,4,10,19,30,9,10,9,,,96.5,Ellis,SP21
+SP21_B00_013,95.49,I've never programmed before!,None of these,5,4,10,20,30,10,10,10,,,99,Ellis,SP21
+SP21_B00_014,82.39,I've never programmed before!,None of these,5,4,8,15,15,9,0,0,,,56,Ellis,SP21
+SP21_B00_015,97.08,I've never programmed before!,None of these,5,4,10,20,20,10,4,10,,,90,Ellis,SP21
+SP21_B00_016,82.04,I've never programmed before!,None of these,0,5,10,20,30,10,10,8,,,95,Ellis,SP21
+SP21_B00_017,101.6,"Python, Java, C/C++","Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions, Write and debug small Python programs, Execute Python programs on your local computer, using notebooks and the command line",5,4,10,20,28,10,10,10,,,97.5,Ellis,SP21
+SP21_B00_018,81.29,I've never programmed before!,None of these,5,4.5,10,18,30,9,9,8,,,93.5,Ellis,SP21
+SP21_B00_019,73.87,Java,None of these,5,3.5,10,20,17,7.5,0,0,,,63,Ellis,SP21
+SP21_B00_020,94.54,I've never programmed before!,None of these,5,5,10,18,30,10,10,7,,,96,Ellis,SP21
+SP21_B00_021,100.92,Maple,Solve basic problems using programmatic solutions,5,4.5,10,20,30,8.5,10,7.5,,,98.5,Ellis,SP21
+SP21_B00_022,100.83,C/C++,Solve basic problems using programmatic solutions,5,4.5,10,20,30,10,10,10,,,101,Ellis,SP21
+SP21_B00_023,91.92,I've never programmed before!,None of these,5,4,10,20,30,10,8,10,,,97,Ellis,SP21
+SP21_C00_001,90.84,I've never programmed before!,None of these,5,5,10,18,28,10,10,7,,,93,Bardolph,SP21
+SP21_C00_002,90.55,I've never programmed before!,None of these,5,4.5,10,20,27,9.5,10,10,,,97,Bardolph,SP21
+SP21_C00_003,84.89,NA,NA,5,5,10,16,28,5,10,7,,,86,Bardolph,SP21
+SP21_C00_004,93.35,I've never programmed before!,None of these,5,5,10,18,30,8.5,5,6,,,87.5,Bardolph,SP21
+SP21_C00_005,94.64,I've never programmed before!,None of these,5,4,10,20,27.5,10,3,9,,,89.5,Bardolph,SP21
+SP21_C00_006,78.39,NA,NA,5,4,6.5,15,24,8,8,5,,,76.5,Bardolph,SP21
+SP21_C00_007,89.46,I've never programmed before!,None of these,5,4.5,10,20,30,10,10,10,,,99.5,Bardolph,SP21
+SP21_C00_007,89.46,I've never programmed before!,None of these,5,4.5,10,20,30,10,10,10,,,99.5,Bardolph,SP21
+SP21_C00_008,88.23,I've never programmed before!,None of these,5,4,10,20,30,9,9,6,,,93,Bardolph,SP21
+SP21_C00_009,101.44,Java,None of these,5,5,10,20,30,10,10,9.5,,,99.5,Bardolph,SP21
+SP21_C00_010,90.72,I've never programmed before!,None of these,5,5,10,20,29,10,10,7,,,97.5,Bardolph,SP21
+SP21_C00_011,100.91,Python,"Program at an introductory level in the Python programming language, Solve basic problems using programmatic solutions, Write and debug small Python programs",5,4,10,18,30,10,10,8,,,98,Bardolph,SP21
+SP21_C00_012,93.81,"Python, Java, Javascript","Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions, Write and debug small Python programs, Execute Python programs on your local computer, using notebooks and the command line, Describe and implement best practices in Python, keeping in mind that programming is done by and for humans",5,5,10,20,28,8.5,3,10,,,89.5,Bardolph,SP21
+SP21_C00_013,99.16,I've never programmed before!,None of these,5,4,10,16,30,10,10,7,,,92,Bardolph,SP21
+SP21_C00_014,100.22,I've never programmed before!,None of these,5,5,10,20,29,10,10,10,,,99,Bardolph,SP21
+SP21_C00_015,81.23,I've never programmed before!,None of these,5,4.5,10,19,28,9,8.5,4.5,,,88.5,Bardolph,SP21
+SP21_C00_016,100.53,"Java, R, C/C++",Solve basic problems using programmatic solutions,5,5,10,20,30,9,10,10,,,103,Bardolph,SP21
+SP21_C00_017,70.25,I've never programmed before!,None of these,5,4.5,10,20,29,9.5,3,7.5,,,0,Bardolph,SP21
+SP21_C00_018,78.39,I've never programmed before!,None of these,5,3,9,20,25,10,3,0,,,75,Bardolph,SP21
+SP21_C00_019,94.77,"Java, Javascript, SPSS",Solve basic problems using programmatic solutions,5,5,10,16,27,9,10,8.5,,,90.5,Bardolph,SP21
+SP21_C00_020,75.55,NA,NA,5,4.5,10,20,26,10,3,7,,,85.5,Bardolph,SP21
+SP21_C00_021,100.12,"Java, C/C++",Solve basic problems using programmatic solutions,5,4,10,20,30,10,10,10,,,99,Bardolph,SP21
+SP21_C00_022,96.05,R,None of these,5,5,10,18,30,10,6,7.5,,,91.5,Bardolph,SP21
+SP21_C00_023,101.07,Javascript,None of these,5,4,10,20,30,10,10,10,,,101,Bardolph,SP21
+SP21_C00_024,86.01,I've never programmed before!,None of these,5,4,10,20,30,10,10,9,,,98,Bardolph,SP21
+SP21_C00_025,95.61,I've never programmed before!,None of these,5,5,10,18,30,10,10,8.5,,,98.5,Bardolph,SP21
+SP21_C00_026,93.14,I've never programmed before!,None of these,4,4,8,10,30,9,4,10,,,79,Bardolph,SP21
+SP21_C00_027,71.51,HTML,None of these,4,4,8,15,22,6,0,0,,,59,Bardolph,SP21
+SP21_C00_028,87.97,"Java, Javascript, C/C++",Write and debug small Python programs,5,5,10,20,26,8,5,8.5,,,88.5,Bardolph,SP21
+SP21_C00_029,91.02,I've never programmed before!,None of these,5,5,9,15,28,8.5,7,6,,,83.5,Bardolph,SP21
+SP21_C00_030,87.62,I've never programmed before!,None of these,5,4.5,10,20,22,10,10,7,,,88.5,Bardolph,SP21
+SP21_C00_031,90.02,"Python, Java, R","Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions, Write and debug small Python programs, Execute Python programs on your local computer, using notebooks and the command line, Describe and implement best practices in Python, keeping in mind that programming is done by and for humans",5,3,0,20,24,10,3,0,,,65,Bardolph,SP21
+SP21_C00_032,99.99,I've never programmed before!,None of these,5,5,10,20,30,10,10,9,,,100,Bardolph,SP21
+SP21_C00_033,97.64,I've never programmed before!,"Execute Python programs on your local computer, using notebooks and the command line",5,5,10,20,29,9,10,9.5,,,97.5,Bardolph,SP21
+SP21_C00_034,77.5,I've never programmed before!,None of these,5,5,10,18,29,9.5,3,8.5,,,88,Bardolph,SP21
+SP21_C00_035,66.42,"I've never programmed before!, Python",Write and debug small Python programs,NA,NA,NA,NA,NA,NA,NA,NA,,,0,Bardolph,SP21
+SP21_C00_036,86.64,I've never programmed before!,Solve basic problems using programmatic solutions,5,4,10,15,30,6,3,2.5,,,75.5,Bardolph,SP21
+SP21_C00_037,78.82,I've never programmed before!,None of these,5,4,10,15,30,10,3,6,,,83,Bardolph,SP21
+SP21_C00_038,95.87,I've never programmed before!,None of these,5,5,10,19,30,9.5,10,8.5,,,98,Bardolph,SP21
+SP21_C00_039,78.35,NA,NA,5,4,10,20,30,10,3,3,,,85,Bardolph,SP21
+SP21_C00_040,98.65,"Python, R","Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions, Write and debug small Python programs",5,4,10,20,30,10,10,10,,,100,Bardolph,SP21
+SP21_C00_041,81.56,NA,NA,5,5,10,18,30,8,10,9,,,95,Bardolph,SP21
+SP21_C00_042,93.95,I've never programmed before!,None of these,5,5,10,20,30,10,10,9,,,99,Bardolph,SP21
+SP21_C00_043,88.14,I've never programmed before!,None of these,5,5,10,20,29,9,10,8,,,96,Bardolph,SP21
+SP21_C00_044,99.61,I've never programmed before!,None of these,5,5,10,19,30,10,10,10,,,103,Bardolph,SP21
+SP21_C00_045,88.16,NA,NA,4,3,9,18,25,7,3,0,,,69,Bardolph,SP21
+SP21_C00_046,93.66,I've never programmed before!,"Solve basic problems using programmatic solutions, Write and debug small Python programs",5,5,10,18,28,9.5,3,9,,,87.5,Bardolph,SP21
+SP21_C00_047,72.62,I've never programmed before!,None of these,5,4.5,10,20,30,10,10,8,,,97.5,Bardolph,SP21
+SP21_C00_048,94.27,I've never programmed before!,None of these,4,5,10,17,30,10,10,10,,,96,Bardolph,SP21
+SP21_C00_049,85.78,I've never programmed before!,None of these,5,5,10,18,25,10,9,6,,,88,Bardolph,SP21
+SP21_C00_050,81.76,I've never programmed before!,"Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions",5,4,5,19,23,9,3,0,,,68,Bardolph,SP21
+SP21_C00_051,94.19,I've done a little coding in shell for my microbiology lab,None of these,5,5,10,17,30,8.5,10,8.5,,,94,Bardolph,SP21
+SP21_C00_052,100.97,R,None of these,5,5,10,20,30,10,10,10,,,101,Bardolph,SP21
+SP21_C00_053,97.55,"I've never programmed before!, Python",None of these,5,4.5,10,20,28,9,10,7.5,,,95,Bardolph,SP21
+SP21_C00_054,93.72,I've never programmed before!,None of these,5,3,8,20,30,8.5,10,6,,,90.5,Bardolph,SP21
+SP21_C00_055,85.31,"Python, Java, Javascript","Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions, Write and debug small Python programs, Execute Python programs on your local computer, using notebooks and the command line, Describe and implement best practices in Python, keeping in mind that programming is done by and for humans",5,4,7,15,17.5,8,9,0,,,65.5,Bardolph,SP21
+SP21_C00_056,56.49,I've never programmed before!,None of these,0,3.5,2.5,0,3,3,0,0,,,12,Bardolph,SP21
+SP21_C00_057,100.18,Java,"Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions",5,5,10,20,30,10,10,10,,,104,Bardolph,SP21
+SP21_C00_057,100.18,Java,"Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions",5,5,10,20,28,10,10,10,,,102,Bardolph,SP21
+SP21_C00_058,98.49,"Python, Java, Javascript, R, C/C++","Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions, Write and debug small Python programs, Execute Python programs on your local computer, using notebooks and the command line, Describe and implement best practices in Python, keeping in mind that programming is done by and for humans",5,4,10,20,30,10,10,10,,,102,Bardolph,SP21
+SP21_C00_059,88.4,I've never programmed before!,None of these,5,3.5,10,20,28,7,3,0,,,76.5,Bardolph,SP21
+SP21_C00_060,94.31,I have used MATLAB a little bit.,None of these,5,5,10,18,27,10,8,9,,,92.5,Bardolph,SP21
+SP21_C00_061,90.31,I've never programmed before!,None of these,5,4,9,13.5,30,7.5,10,7,,,86,Bardolph,SP21
+SP21_C00_062,96.83,Python,"Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions, Write and debug small Python programs, Execute Python programs on your local computer, using notebooks and the command line, Describe and implement best practices in Python, keeping in mind that programming is done by and for humans",5,4,9,20,30,10,10,9,,,99,Bardolph,SP21
+SP21_C00_063,93.57,I've never programmed before!,None of these,5,4,10,20,30,9,10,10,,,98,Bardolph,SP21
+SP21_C00_064,101.19,Python,Program at an introductory level in the Python programming language,5,4,10,20,30,10,10,10,,,100.5,Bardolph,SP21
+SP21_C00_065,98.52,"Python, Java","Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions, Describe and implement best practices in Python, keeping in mind that programming is done by and for humans",5,5,10,20,30,10,10,10,,,103,Bardolph,SP21
+SP21_C00_066,99.5,NA,NA,5,5,10,20,30,10,10,10,,,104,Bardolph,SP21
+SP21_C00_067,69.89,NA,NA,5,4,7,16,16,8,2,0,,,58,Bardolph,SP21
+SP21_C00_068,93.64,Java,Solve basic problems using programmatic solutions,5,4.5,9,18,30,5.5,9,7,,,88,Bardolph,SP21
+SP21_C00_069,80.26,I've never programmed before!,Solve basic problems using programmatic solutions,5,4,10,16,30,7,3,0,,,75,Bardolph,SP21
+SP21_C00_070,98.02,I've never programmed before!,None of these,5,4,10,20,30,9,10,10,,,102,Bardolph,SP21
+SP21_C00_071,96.87,C/C++,"Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Solve basic problems using programmatic solutions, Write and debug small Python programs",5,5,10,20,30,10,0,9,,,91,Bardolph,SP21
+SP21_C00_072,85.83,"Javascript, I took a class where we learned html and css",None of these,5,5,10,17,23,8,2,6,,,76,Bardolph,SP21
+SP21_C00_073,91.44,I've never programmed before!,None of these,5,5,10,18,30,8.5,7,7,,,90.5,Bardolph,SP21
+SP21_C00_074,78.78,I've never programmed before!,None of these,5,5,10,20,29,9,9,6,,,93,Bardolph,SP21
+SP21_C00_075,80.91,Java,Solve basic problems using programmatic solutions,5,4.5,10,20,28,10,9.5,8,,,95,Bardolph,SP21
+SP21_C00_076,98.91,the concepts in COGS 3,None of these,5,5,10,20,30,9,10,10,,,100,Bardolph,SP21
+SP21_C00_077,97.52,"R, Worked with R and STATA for other courses before but basically never programmed before.",Solve basic problems using programmatic solutions,5,4,10,20,30,7,7,10,,,94,Bardolph,SP21
+SP21_C00_078,88.95,I've never programmed before!,None of these,5,5,9,17,27,10,10,7.5,,,90.5,Bardolph,SP21
+SP21_C00_079,88.92,I've never programmed before!,"Program at an introductory level in the Python programming language, Read basic Python programs, recognizing the structures they use and be able to explain how they work, Write and debug small Python programs",NA,NA,NA,NA,NA,NA,NA,NA,,,NA,Bardolph,SP21
+SP21_C00_080,95.7,I've never programmed before!,None of these,5,4.5,10,20,30,8.5,10,8.5,,,96.5,Bardolph,SP21
+SP21_C00_081,96.48,I've never programmed before!,None of these,5,5,10,19,28,10,8,7.5,,,92.5,Bardolph,SP21
+SP21_C00_082,64.33,I've never programmed before!,None of these,5,4,0,19,30,10,0,4,,,72,Bardolph,SP21
+SP21_C00_083,87.68,I've never programmed before!,None of these,5,5,10,20,28,6,3,7.5,,,84.5,Bardolph,SP21
+SP21_C00_084,96.46,I've never programmed before!,None of these,5,5,0,20,27.5,10,10,9,,,86.5,Bardolph,SP21
+SP21_C00_085,99.87,Python,Write and debug small Python programs,5,5,10,20,29,9.5,10,9.5,,,98,Bardolph,SP21
+SP21_C00_086,83.63,I've never programmed before!,None of these,5,5,10,20,28,9.5,5,5,,,87.5,Bardolph,SP21
+SP21_C00_087,83.03,I've never programmed before!,None of these,5,3,10,12,20,7,2,2.5,,,61.5,Bardolph,SP21
+SP21_C00_088,81.51,NA,NA,5,4,9,15,25,10,0,6,,,74,Bardolph,SP21
+SP21_C00_089,66.97,NA,NA,4,5,8,15,15,8,3,5,,,63,Bardolph,SP21
+SP21_C00_090,94.98,I've never programmed before!,None of these,5,5,10,20,30,9,9,7,,,96,Bardolph,SP21
+SP21_C00_091,101.54,I've never programmed before!,None of these,5,5,10,20,30,10,10,10,,,100,Bardolph,SP21
+SP21_C00_092,93,I've never programmed before!,None of these,5,3,10,20,25,10,10,9,,,92,Bardolph,SP21
+SP21_C00_093,89.54,I've never programmed before!,None of these,5,4,10,19,30,10,3,9,,,90,Bardolph,SP21
+SP21_C00_094,91.99,SQL,Solve basic problems using programmatic solutions,5,4.5,10,15,24,10,10,3.5,,,82,Bardolph,SP21
