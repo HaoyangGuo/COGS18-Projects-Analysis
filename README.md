@@ -1,4 +1,4 @@
-# COGS18 Projects Analysis
+#  COGS18 Projects Analysis: Introduction to Python Students Demonstrate Multiple Paths to Successful Final Projects
 Analysis of COGS 18 Projects completed by Haoyang Guo (COGS 199)
 
 ## File Structure
