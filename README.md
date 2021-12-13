@@ -1,4 +1,4 @@
-# cogs18_projects
+# COGS18 Projects Analysis
 Analysis of COGS 18 Projects completed by Haoyang Guo (COGS 199)
 
 ## File Structure
