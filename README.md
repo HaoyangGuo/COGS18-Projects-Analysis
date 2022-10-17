@@ -1,6 +1,11 @@
 #  COGS18 Projects Analysis: Introduction to Python Students Demonstrate Multiple Paths to Successful Final Projects
 Analysis of COGS 18 Projects completed by Haoyang Guo (COGS 199)
 
+## Code
+[00_feature_engineering](00_feature_engineering/scripts/feature_engineering.html)
+
+[01_data_analysis](01_data_analysis/cogs18_projects_analysis.html)
+
 ## File Structure
 ### 00_feature_engineering
 - /data - COGS 18 final projects used in analysis
