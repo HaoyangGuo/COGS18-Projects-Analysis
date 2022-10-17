@@ -2,7 +2,7 @@
 Analysis of COGS 18 Projects completed by Haoyang Guo (COGS 199)
 
 ## Code
-
+[https://haoyangguo.github.io/COGS18-Projects-Analysis/](https://haoyangguo.github.io/COGS18-Projects-Analysis/)
 
 ## File Structure
 ### 00_feature_engineering
